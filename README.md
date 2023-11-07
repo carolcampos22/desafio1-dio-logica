@@ -1,4 +1,4 @@
-### Desafio Classificador de nível de Herói - DIO - Prof. Felipão
+### Desafio Classificador de nível de Herói - DIO - Prof. Felipe Aguiar
 
 ### Objetivos
 Programa criado para o curso de Lógica de Programação da DIO. O objetivo é criar uma variável (vetor) que guarde o nome e o XP de um herói e mostrar sua classificação de acordo com seu XP.
